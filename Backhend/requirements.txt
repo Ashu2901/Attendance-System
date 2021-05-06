@@ -1,0 +1,16 @@
+tensorflow==1.3.0
+scipy==1.1.0
+opencv-python==3.4.2.17
+numpy==1.18.5
+scikit-learn==0.19.1
+facenet
+flask
+flask_cors
+db
+PyJWT
+datetime
+imageio
+mysql
+mysql-connector-python
+pymysql
+
